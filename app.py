@@ -105,10 +105,10 @@ st.title("🎨 Colorización de Imágenes con GAN")
 st.markdown("""
 **Tipo de modelo:** GAN Condicional (U-Net + PatchGAN)  
 **Versión del modelo:** 1.0  
-**Curso:** INF658 - Deep Learning  
+**Curso:** INF658 - COMPUTACIÓN GRÁFICA
 **Alumnos:**  
-- Javier Monzón - 2020123456  
-- Ana Ruiz - 2020123457
+- Edward Rosales - 19910608
+- Javier Monzón - 20121248  
 """)
 
 st.write("Sube una imagen en blanco y negro para verla coloreada automáticamente.")
