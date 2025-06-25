@@ -1,3 +1,4 @@
 models/*.pth
 models/*.pt
 models/*.ckpt
+__pycache__
